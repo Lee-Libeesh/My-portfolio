@@ -7,7 +7,7 @@ export default function Intro() {
     <section id="home" className="w-full max-w-4xl mx-auto flex flex-col items-center justify-center min-h-screen scroll-mt-10 mb-30">
       <img src="/car.jfif"  className="rounded-full w-45 h-45 mb-6 shadow-lg" />
 
-      <h1 className="text-3xl font-bold mb-2">Hello, I'm Mr.Lee</h1>
+      <h1 className="text-3xl font-bold mb-2">Hello, I&apos;m Mr.Lee</h1>
       <p className="text-lg text-center mb-4">
         A passionate frontend developer specializing in React and Next.js.
         <br />

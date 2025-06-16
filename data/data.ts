@@ -21,7 +21,7 @@ export const skills: Skill[] = [
 export interface Experiences {
   title: string;
   company: string;
-  location?: string;
+  location?: string
   duration: string;
   description: string;
 }
