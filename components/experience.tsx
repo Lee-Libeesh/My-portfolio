@@ -1,11 +1,9 @@
 "use client";
 import React from 'react'
-import { experiences, Experiences } from '../data/data'
+import { experiences} from'../data/data'
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import { BsBriefcase } from 'react-icons/bs';
 import 'react-vertical-timeline-component/style.min.css';
-
-
 
 export default function Experience() {
   return (
