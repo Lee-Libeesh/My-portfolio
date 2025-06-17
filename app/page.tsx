@@ -10,7 +10,6 @@ import DarkModeButton from "@/components/DarkModeButton";
 import "./globals.css";
 
 
-
 export default function Home() {
   return (
     <main>
